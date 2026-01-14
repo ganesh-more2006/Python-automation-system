@@ -1,0 +1,4 @@
+credentials/
+token_v20_gmail.json
+token_v20_sheets.json
+**/__pycache__/
