@@ -6,7 +6,7 @@ Parsing Engine: Extracts the Sender (From), Subject, Date/Time, and Body content
 Sheets Service: Uses Google Sheets API to append the extracted data as a new row in a specific Spreadsheet.
 State Management: Updates the email status to READ in Gmail to prevent duplicate logging in future runs.
 2. Setup Instructions 
-Clone the Repository: git clone <your-repo-link>
+Clone the Repository: git clone <https://github.com/ganesh-more2006/Python-automation-system>
 Install Dependencies: Run pip install -r requirements.txt.
 Configure Google Cloud:
 Enable Gmail and Sheets APIs in the Google Cloud Console.
